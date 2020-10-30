@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Week1.cpp" />
+    <ClCompile Include="C1_Akira.cpp">
+      <Filter>Akira</Filter>
+    </ClCompile>
+    <ClCompile Include="C1_R4U.cpp">
+      <Filter>R4U</Filter>
+    </ClCompile>
+    <ClCompile Include="C1_XiaoYu.cpp">
+      <Filter>XiaoYu</Filter>
+    </ClCompile>
+    <ClCompile Include="Equation.cpp">
+      <Filter>XiaoYu</Filter>
+    </ClCompile>
+    <ClCompile Include="MathUtils.cpp">
+      <Filter>XiaoYu</Filter>
+    </ClCompile>
+    <ClCompile Include="MemUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="RoundLinkedList.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C1_Liki.cpp">
+      <Filter>Liki</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C1_Akira.h">
+      <Filter>Akira</Filter>
+    </ClInclude>
+    <ClInclude Include="C1_R4U.h">
+      <Filter>R4U</Filter>
+    </ClInclude>
+    <ClInclude Include="C1_XiaoYu.h">
+      <Filter>XiaoYu</Filter>
+    </ClInclude>
+    <ClInclude Include="Equation.h">
+      <Filter>XiaoYu</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtils.h">
+      <Filter>XiaoYu</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MemUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="RoundLinkedList.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="type_def.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C1_Liki.h">
+      <Filter>Liki</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Akira">
+      <UniqueIdentifier>{57b9f052-7a15-4030-bceb-5d52dfdb58cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="R4U">
+      <UniqueIdentifier>{4d9c7ab3-fe98-4b4e-9b91-99ddab3e5132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XiaoYu">
+      <UniqueIdentifier>{ac9789d9-2374-4f94-8303-59ba23a8fa4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{4e01a147-6cba-4027-b7da-e982ca52523b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Liki">
+      <UniqueIdentifier>{11573702-6aa9-4e6f-b464-d6e6594d46d6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
